@@ -21,7 +21,7 @@
 
 <!-- GETTING STARTED -->
 ## Introduction
-This if the offical repository for "Modelling complex vector drawings with stroke-clouds". The data set and pre-trained models can be downloaded from the links given. Instructions for inference and training both the srm and lsg are given.
+This is the offical repository for "Modelling complex vector drawings with stroke-clouds". The data set and pre-trained models can be downloaded from the links given. Instructions for inference and training both the srm and lsg are given.
 
 
 
