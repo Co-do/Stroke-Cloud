@@ -17,7 +17,7 @@
 
 <!-- ABOUT THE PROJECT -->
 
-![2](https://github.com/Co-do/Stroke-Cloud/assets/123647750/8b5978f9-352e-4fc3-8498-12eb8198cd44)![4](https://github.com/Co-do/Stroke-Cloud/assets/123647750/7b326ced-e2c0-4c08-bb50-10b999ae446a)
+![2](https://github.com/Co-do/Stroke-Cloud/assets/123647750/a858e134-13a9-45d3-891f-e95a733a65ba)
 
 
 <!-- GETTING STARTED -->
