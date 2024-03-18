@@ -17,7 +17,11 @@
 
 <!-- ABOUT THE PROJECT -->
 
-<img src="https://github.com/Co-do/Stroke-Cloud/assets/123647750/411131f4-4826-4763-a485-69cd929a8e26" width="100" height="100"> <img src="https://github.com/Co-do/Stroke-Cloud/assets/123647750/411131f4-4826-4763-a485-69cd929a8e26" width="100" height="100">
+<img src="https://github.com/Co-do/Stroke-Cloud/assets/123647750/411131f4-4826-4763-a485-69cd929a8e26" width="100" height="200"> 
+![1](https://github.com/Co-do/Stroke-Cloud/assets/123647750/841789bf-7dac-4b0a-b228-c36202d1f938)
+![2](https://github.com/Co-do/Stroke-Cloud/assets/123647750/ea4ce9be-d05c-4393-9ed8-91152aff3c12)![4](https://github.com/Co-do/Stroke-Cloud/assets/123647750/4f554f6f-0f9b-464e-9bc8-6faffe1392e0)
+![5](https://github.com/Co-do/Stroke-Cloud/assets/123647750/4172389c-a0b4-4ecd-866f-296790c0706e)
+
 
 
 <!-- GETTING STARTED -->
