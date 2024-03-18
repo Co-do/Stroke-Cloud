@@ -17,24 +17,38 @@
 
 <!-- ABOUT THE PROJECT -->
 
-## Getting Started
 ![2](https://github.com/Co-do/Stroke-Cloud/assets/123647750/8b5978f9-352e-4fc3-8498-12eb8198cd44)![4](https://github.com/Co-do/Stroke-Cloud/assets/123647750/7b326ced-e2c0-4c08-bb50-10b999ae446a)
 
 
 <!-- GETTING STARTED -->
-## Getting Started
+## Introduction
+This if the offical repository for "Modelling complex vector drawings with stroke-clouds". The data set and pre-trained models can be downloaded from the links given. Instructions for inference and training both the srm and lsg are given.
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+
 
 ### Environment
 
-yaml file guy, pytorch, lightning, 
+Coming soon
 
 ## Training
 
+SRM:
+
+1) Add your wandb key or change the logger in srm_train.py.
+2) Download the training data.
+3) Run srm_train.py
+
+LSG:
+
+1) Generate latent codes with srm_test.py
+2) Add your wandb key or change the logger in lsg_train.py.
+3) Run lsg_train.py
+
+
 
 ## Inference
+1) Download the models and run lsg_test.py
+2) Or run lsg_test.py with your own trained models.
 
 
 <!-- LICENSE -->
