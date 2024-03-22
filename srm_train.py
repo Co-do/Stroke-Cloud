@@ -29,7 +29,7 @@ dim_in = 6
 gpu_num = 1
 
 #Add WB key here
-wand_b_key = 'c07174ffba3e51fb40af49addaf1847c7559e5b1'
+wand_b_key = 'Your key here'
 wandb.login(key=wand_b_key)
 wandb_logger = WandbLogger(name=experiment_name,project='Your Stroke Cloud')
 trainer = Trainer(logger=wandb_logger)
@@ -74,6 +74,6 @@ srm = srm(encoder, decoder, scheduler, ddim_s, experiment_name, samples, sample_
 
 
 trainer = L.Trainer(accelerator='gpu', devices=gpu_num, strategy='auto' ,logger=wandb_logger, max_epochs= -1,
-                    check_val_every_n_epoch=1, enable_progress_bar=True, profiler="simple",
+                    check_val_every_n_epoch=100, enable_progress_bar=True, profiler="simple",
                     callbacks=[StochasticWeightAveraging(swa_lrs=learning_rate),checkpoint_callback ], benchmark=True)
-trainer.fit(model=srm, train_dataloaders=train_loader, val_dataloaders= val_loader, ckpt_path="Models/10K_DD.ckpt")
+trainer.fit(model=srm, train_dataloaders=train_loader, val_dataloaders= val_loader)
