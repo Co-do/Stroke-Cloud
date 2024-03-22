@@ -86,7 +86,7 @@ class srm(L.LightningModule):
 
         #KL
         KLD = - torch.sum(1 + torch.log(sigma.pow(2)) - mu.pow(2) - sigma.pow(2))
-        KLS = (3e-8) #* self.current_epoch
+        KLS = (0) #* self.current_epoch
         loss = loss_mse + (KLS * KLD)
         self.log("train_loss", loss, on_step=False, on_epoch=True, prog_bar=False, logger=True, sync_dist=False)
         return loss
