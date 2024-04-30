@@ -27,7 +27,10 @@ This is the offical repository for "Modelling complex vector drawings with strok
 
 ### Environment
 
-Coming soon
+lxml - 4.9
+lightning 2.0.9
+pytorch-lightning - 2.0.3
+torch 2.2.0
 
 ## Training
 
