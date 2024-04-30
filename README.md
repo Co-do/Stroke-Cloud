@@ -10,7 +10,7 @@
     ·
     <a href="https://github.com/github_username/repo_name/issues">Data</a>
     ·
-    <a href="https://github.com/github_username/repo_name/issues">Models</a>
+    <a href="https://drive.google.com/drive/folders/1e61EzE33T7foYsLqr-B3IGHLtgVX2MPD?usp=sharing">Models</a>
   </p>
 </div>
 
