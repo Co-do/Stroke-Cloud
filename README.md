@@ -8,7 +8,7 @@
     <br />
     <a href="https://iclr.cc/virtual/2024/poster/18757">Paper</a>
     ·
-    <a href="https://github.com/github_username/repo_name/issues">Data</a>
+    <a href="https://drive.google.com/file/d/1rv8MGfiAv6lwddGiSLTCqK2Mfltqnatk/view?usp=sharing">Data</a>
     ·
     <a href="https://drive.google.com/drive/folders/1e61EzE33T7foYsLqr-B3IGHLtgVX2MPD?usp=sharing">Models</a>
   </p>
